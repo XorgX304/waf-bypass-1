@@ -1,2 +1,2 @@
 # waf-bypass
-Payload for bypassing waf
+Payloads for bypassing waf
